@@ -1,6 +1,7 @@
 ```mermaid
 gantt
     title KD3CKD Summer 2026 Roadmap
+    Next Meeting w/ KD8OXT :vert, 2026-05-11, 0d
     dateFormat YYYY-MM
 section Milestones
         Dayton Hamvention       : milestone, hamvention, 2026-05-15, 2d
@@ -27,3 +28,10 @@ section VLF Shipping
        VLF Shipping: vlfship, after vlflog, 2d
 
 ```
+## TO-DO List
+- [X] Start a to-do list
+- [ ] Get status updates on all the instruments!
+    - [ ] WSPRsonde
+    - [ ] Ground mag
+    - [ ] Antenna and timing injectors
+- [ ] Order antenna and timing injectors
