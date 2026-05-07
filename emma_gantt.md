@@ -36,9 +36,11 @@ section VLF Shipping
     - [ ] Ground mag
     - [ ] Antenna and timing injectors
 - [ ] Order antenna and timing injectors
+      
 
 ## KD3CKD/KD8OXT - Agenda items for next meeting
 - Ticketing system
 - RX888 updates
 - Box design updates (and PSWS logo)
-- HardwareX
+- HardwareX manuscript
+- Smart outlet spec (https://github.com/HamSCI/psws-charette/issues/46)
