@@ -30,12 +30,13 @@ section VLF Shipping
 ```
 ## TO-DO List
 - [X] Start a to-do list
+- [X] Order antenna and timing injectors
 - [ ] Order parts 
 - [ ] Get status updates on all the instruments!
     - [ ] WSPRsonde
     - [ ] Ground mag
     - [ ] Antenna and timing injectors
-- [ ] Order antenna and timing injectors
+
       
 
 ## KD3CKD/KD8OXT - Agenda items for next meeting
