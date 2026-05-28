@@ -5,7 +5,8 @@ gantt
 section Community
         HamSCI Workshop       : done, milestone, hamsci, 2026-03-10, 2d 
         Dayton Hamvention       : milestone, hamvention, 2026-05-15, 2d
-        ARRL Field Day       : milestone, fieldday, 2026-06-27, 2d 
+        ARRL Field Day       : milestone, fieldday, 2026-06-27, 2d
+        K3LR Retreat (TBD):        k3lr, 2026-07-27, 2d
         HamSCI 2027 Planning       : planning, 2026-09-01, 30d 
                                 
 section Science
