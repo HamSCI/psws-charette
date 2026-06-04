@@ -12,12 +12,12 @@ section Milestones
         Departure       : milestone, end, 2026-08-01, 1d
                                 
 section Documentation
-       RSEAV-1 Testing    :antennatest, 2026-05-1, 20d
-       RSEAV-1 Documentation    :antennadoc, after antennatest, 5d
+       RSEAV-1 Testing    :done, antennatest, 2026-05-1, 20d
+       RSEAV-1 Documentation    :antennadoc, after antennatest, 25d
        HardwareX Draft :hardwarex, after antennatest, 30d
 section PSWS Shipping
        Meet with Design Dept. :done, designmeet, 2026-05-01, 1d
-       Finalize box design: boxdesign, 2026-05-15, 1d
+       Finalize box design: boxdesign, 2026-06-15, 1d
        Order boxes: boxorder, after boxdesign, 7d
        Finalize BOM: BOM, 2026-05-05, 5d
        Pack and ship boxes: packing, after BOM boxorder, 5d
@@ -41,8 +41,6 @@ section WSPRSonde
       
 
 ## KD3CKD/KD8OXT - Agenda items for next meeting
-- Ticketing system
-- RX888 updates
 - Box design updates (and PSWS logo)
-- HardwareX manuscript
+- HardwareX manuscript - adapt documentation from https://github.com/K3DFD-Radio/K3DFD-PSWS
 - Smart outlet spec (https://github.com/HamSCI/psws-charette/issues/46)
