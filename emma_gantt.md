@@ -1,7 +1,7 @@
 ```mermaid
 gantt
     title KD3CKD Summer 2026 Roadmap
-    Next Meeting w/ KD8OXT :vert, 2026-05-11, 0d
+    Next Meeting w/ KD8OXT :vert, 2026-06-11, 0d
     dateFormat YYYY-MM
 section Milestones
         Dayton Hamvention       : milestone, hamvention, 2026-05-15, 2d
@@ -26,7 +26,8 @@ section PSWS Shipping
 section VLF Shipping
        VLF logistics: vlflog, after shippingdeadline, 2w
        VLF Shipping: vlfship, after vlflog, 2d
-
+section WSPRSonde
+       WSPRSonde map and letter: wsprsondeletter, 2026-06-04, 2d
 ```
 ## TO-DO List
 - [X] Start a to-do list
