@@ -14,7 +14,8 @@ section Science
        SciAct Proposal    :done, sciact, 2026-03-10, 20d
         CEDAR Workshop    : milestone, CEDAR, 2026-06-21, 1d 
         Iceland/Spain Eclipse       : milestone, Eclipse, 2026-07-12, 1d
-AGU26       : milestone, AGu26, 2026-12-07, 1d 
+AGU26       : milestone, AGu26, 2026-12-07, 1d
+               CINEMA-MOVIE Phase B    :cinema, 2026-07-01, 90d
 section Data
         Github Migration    :done, req1, 2026-03-20, 20d
                 WW0WWV Migration    :ww0wwv, 2026-04-15, 30d
