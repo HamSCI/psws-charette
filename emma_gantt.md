@@ -1,7 +1,7 @@
 ```mermaid
 gantt
     title KD3CKD Summer 2026 Roadmap
-    Next Meeting w/ KD8OXT :vert, 2026-06-11, 0d
+    Next Meeting w/ KD8OXT :vert, 2026-06-25, 0d
     dateFormat YYYY-MM
 section Milestones
         Dayton Hamvention       : milestone, hamvention, 2026-05-15, 2d
@@ -15,7 +15,9 @@ section Milestones
 section Documentation
        RSEAV-1 Testing    :done, antennatest, 2026-05-1, 20d
        RSEAV-1 Documentation    :antennadoc, after antennatest, 25d
-       HardwareX Draft :hardwarex, after antennatest, 30d
+       HF Receiver Documentation    :rx888doc, 2026-06-18, 25d
+       Update HamSCI Getting Started Documentation    :introduc, 2026-06-18, 25d
+       HardwareX Draft :hardwarex, 2026-06-11, 30d
 section RX888 PSWS Shipping
        Meet with Design Dept. :done, designmeet, 2026-05-01, 1d
        Finalize box design: boxdesign, 2026-06-05, 1d
@@ -25,7 +27,7 @@ section RX888 PSWS Shipping
        Ship!: ship, after packing, 2d
        Shipping Deadline      :milestone, shippingdeadline, 2026-07-01, 1d
 section Magnetometer
-       Calm US Postal Service: notabom, 2026-06-01, 2w
+       Calm US Postal Service:done, notabom, 2026-06-01, 2w
        Magnetometer Meeting: magmeet, 2026-06-11, 1d
        Magnetometer Testing: magtest, after magmeet, 1w
        Magnetometer Packing: magpack, after magtest, 1w
